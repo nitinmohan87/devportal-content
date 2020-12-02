@@ -3,16 +3,7 @@
     {{end}}
 </span>
 
-# Welcome to the Ambassador Dev Portal
-
-## Customizing the Portal
-
-This content is fully customizable for your specific needs. 
-For details on customizing the portal, see https://www.getambassador.io/reference/dev-portal.
-
-## Available Services
-
-The following services are exposed through this Ambassador instance:
+# Awesome API Portal
 
 <table cellpadding="2em" width="100%">
     <thead>
